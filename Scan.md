@@ -1,9 +1,12 @@
 ## Установка ОС на виртуальные машины
-1. Oracle VM Virtual box
-![alt text](virtual.jpg)
-2. Ubuntu 
-![alt text](image.png)
-3. Debian
-![alt text](image-1.png)
-4. Kali
-![alt text](image-2.png)
+1. 
+![Oracle VM Virtual box](virtual.jpg)
+
+2.  
+![Ubuntu](image.png)
+
+3. 
+![Debian](image-1.png)
+
+4. 
+![Kali](image-2.png)
